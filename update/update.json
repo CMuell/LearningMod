@@ -1,0 +1,14 @@
+{
+  "homepage": "https://github.com/CMuell/LearningMod/",
+  "1.12.2": {
+    "0.1.0": "None"
+  },
+
+  "promos": {
+    "1.12.2-latest": "0.1.0",
+    // Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
+    "1.12.2-recommended": "0.1.0",
+    // Declare the latest "stable" version of your mod for the given Minecraft version
+    ...
+  }
+}
